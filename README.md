@@ -1,2 +1,2 @@
-# test-Djangi
+# test-Django
 Découverte et test de Django.
